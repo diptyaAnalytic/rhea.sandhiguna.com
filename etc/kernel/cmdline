@@ -1,0 +1,1 @@
+root=UUID=3975d5e5-e66a-44c3-90f7-dc2d1c7859d1 ro rootflags=subvol=root no_timer_check net.ifnames=0 console=tty1 console=ttyS0,115200n8 

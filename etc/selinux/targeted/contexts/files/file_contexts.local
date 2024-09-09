@@ -1,0 +1,2 @@
+/var/www/bench-root(/.*)/public(/.*)?   system_u:object_r:httpd_sys_rw_content_t:s0
+/var/www/bench-root(/.*)/private(/.*)?   system_u:object_r:httpd_sys_rw_content_t:s0

@@ -1,0 +1,5 @@
+[mariadb]
+name=mariadb
+stream=10.8
+profiles=
+state=enabled
